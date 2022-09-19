@@ -105,11 +105,12 @@ nav .menu-btn,
 .menu-icon{
 		display:none;
 	}
-.name{
+
+.name {
     text-align: center;
 	font-family: 'Montserrat';
 	width: 900px;
-	position: absolute;
+	position: relative;
     left: 50%;
 	top: 55%;
 	transform: translate(-50%,-55%);
@@ -258,7 +259,7 @@ nav .menu-btn,
     text-align: center;
 	font-family:'Lato';
 	width: 600px;
-	position: absolute;
+	position: relative;
     margin-top: 60px;
     left: 50%;
 	transform: translate(-50%,-55%);
